@@ -135,7 +135,7 @@ namespace BTVN_Buoi_3
         }
         #endregion
 
-        #region Tính ngày trước sau
+        #region Tính ngày trước sau 
         /// <summary>
         /// Kiểm tra năm nhuận hay không
         /// </summary>
@@ -190,16 +190,16 @@ namespace BTVN_Buoi_3
         /// <param name="year"></param>
         static void GetPreviousDay(int day, int month, int year)
         {
-            int maxDayOfMonth = MaxDayOfMonth(month, year);
+            
             if (day == 1)
             {
                 if(month == 1)
                 {
-                       Console.WriteLine($"Ngày trước đó là {maxDayOfMonth}/{12}/{year - 1}");
+                       Console.WriteLine($"Ngày trước đó là {31}/{12}/{year - 1}");
                 }
                 else
                 {
-                    Console.WriteLine($"Ngày trước đó là {maxDayOfMonth}/{month - 1}/{year}");
+                    Console.WriteLine($"Ngày trước đó là {MaxDayOfMonth(month-1,year)}/{month - 1}/{year}");
                 }
             }
             else

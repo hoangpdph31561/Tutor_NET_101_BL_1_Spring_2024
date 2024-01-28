@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_1", "Buoi_1\Buoi_1.csproj", "{4620C1ED-8BE2-4030-B5C6-F18846B3E069}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi_1", "Buoi_1\Buoi_1.csproj", "{4620C1ED-8BE2-4030-B5C6-F18846B3E069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Buoi_3", "BTVN_Buoi_3\BTVN_Buoi_3.csproj", "{A272C485-D541-462D-97B4-B6AABBA02318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVN_Buoi_3", "BTVN_Buoi_3\BTVN_Buoi_3.csproj", "{A272C485-D541-462D-97B4-B6AABBA02318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_3_Mang", "Buoi_3_Mang\Buoi_3_Mang.csproj", "{628A1FF5-82B6-4FBD-80CB-8B0783250804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi_3_Mang", "Buoi_3_Mang\Buoi_3_Mang.csproj", "{628A1FF5-82B6-4FBD-80CB-8B0783250804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_3_Ham", "Buoi_3_Ham\Buoi_3_Ham.csproj", "{646D9CC8-5440-4FD9-8BC6-D90568A13DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi_3_Ham", "Buoi_3_Ham\Buoi_3_Ham.csproj", "{646D9CC8-5440-4FD9-8BC6-D90568A13DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Buoi_2", "BTVN_Buoi_2\BTVN_Buoi_2.csproj", "{FBCF7E2B-DAE4-4952-A3CB-9CF026C03EF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVN_Buoi_2", "BTVN_Buoi_2\BTVN_Buoi_2.csproj", "{FBCF7E2B-DAE4-4952-A3CB-9CF026C03EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_4_OOP", "Buoi_4_OOP\Buoi_4_OOP.csproj", "{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FBCF7E2B-DAE4-4952-A3CB-9CF026C03EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCF7E2B-DAE4-4952-A3CB-9CF026C03EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCF7E2B-DAE4-4952-A3CB-9CF026C03EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
