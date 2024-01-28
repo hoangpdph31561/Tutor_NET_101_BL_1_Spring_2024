@@ -12,7 +12,7 @@ namespace Buoi_4_OOP
         string input;
         public StudentService()
         {
-            lstStudent = new List<Student>();
+            lstStudent = new();
         }
         public void NhapDoiTuong()
         {
