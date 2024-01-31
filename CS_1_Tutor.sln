@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVN_Buoi_2", "BTVN_Buoi_2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi_4_OOP", "Buoi_4_OOP\Buoi_4_OOP.csproj", "{A7A89E15-3C14-42B3-A86A-F1C9A110B86A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVB_Buoi_4", "BTVB_Buoi_4\BTVB_Buoi_4.csproj", "{0519E162-7CC3-4B8E-8D22-82AE7A875CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVB_Buoi_4", "BTVB_Buoi_4\BTVB_Buoi_4.csproj", "{0519E162-7CC3-4B8E-8D22-82AE7A875CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_6_Static", "Buoi_6_Static\Buoi_6_Static.csproj", "{7BA41061-8202-4429-A24E-B03D5636C68F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0519E162-7CC3-4B8E-8D22-82AE7A875CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0519E162-7CC3-4B8E-8D22-82AE7A875CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0519E162-7CC3-4B8E-8D22-82AE7A875CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA41061-8202-4429-A24E-B03D5636C68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA41061-8202-4429-A24E-B03D5636C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA41061-8202-4429-A24E-B03D5636C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA41061-8202-4429-A24E-B03D5636C68F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
